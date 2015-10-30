@@ -1,0 +1,2 @@
+--Paket yöneticilerini oluştururken init ile (npm init) default bir dependencies dosyası oluşturuluyor.
+--Backend paketlerini NPM'den FrontEnd paketlerini Bower'dan yüklenmesi öneriliyor.
